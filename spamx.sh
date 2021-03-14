@@ -491,7 +491,7 @@ echo -e '\e[91m
                    ─▐─█────█─▌─
                    ────▌──▐────
 '
-echo -e "\e[93m                  CALL ME \e[92Ankit hacker" | pv -qL 10                                                                    
+echo -e "\e[93m                  CALL ME \e[92mAnkit hacker" | pv -qL 10                                                                    
 echo -e "\e[93m             IAM FROM \e[92mBasantpur Haryana (Ankithacker)" | pv -qL 10                                                                 
 echo -e "\e[93m       IM A \e[92mGEEK\e[93m WITH LOTS OF EXCITEMENT" | pv -qL 10
 echo -e "\e[93m             HOPE YOU LIKE THIS SCRIPT" | pv -qL 10            
