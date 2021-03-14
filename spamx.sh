@@ -89,7 +89,7 @@ bnr
 men
 elif [ $opt1 = "6" ];
 then
-am start -a android.intent.action.VIEW -d https://wa.me/7703823008 > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://wa.me/+917703823008 > /dev/null 2>&1
 bnr
 men
 elif [ $opt1 = "7" ];
